@@ -1,1 +1,1 @@
-# DroneProject
+Conducted a drone project, focusing on 3D data capture in enclosed spaces, while utilizing dynamic programming and MSE formulation for the problem-solving various subtasks. Successfully executed room dimension assessment, proximity measurement, and exit point pinpointing.
